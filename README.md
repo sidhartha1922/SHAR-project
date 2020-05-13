@@ -5,4 +5,4 @@ Tools used:
 -> HTML & CSS<br>
 -> PHP , javascript, SQL<br>
 -> TCPDF (PHP library for generating PDF's)<br>
-To run, clone the repository and paste the project files inside WWW folder after installing WAMP software.
+To run, clone the repository and paste the project files and images inside WWW folder after installing WAMP software.
